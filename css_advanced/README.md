@@ -87,6 +87,10 @@ css_advanced/
 
 The CSS has been written to comply with W3C standards and can be validated using the W3C CSS Validator.
 
+## Preview
+
+![Amazing Duck](amazing-duck.png)
+
 ## Link
 
 https://fredbourouliou.github.io/
